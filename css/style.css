@@ -1,0 +1,62 @@
+/* La funcion para estblacer en 0 el margin y el padding */
+
+
+
+
+/* En esta funcion se aplica modificaciones del formato de la seccion de la clase "form-register"
+que es todo el formulario*/
+.form-register{
+  border-radius: 4px;
+  font-family: 'calibri'; /* */
+  color: rgb(27, 6, 6);
+}
+/* En esta funcion se aplica modificaciones del formato encabezado nivel 3 "Formulario de registro"*/
+
+/* En esta funcion se aplica modificaciones del formato de la clase de controls que son los espacios de relleno
+en la cual debemos escribir los datos para el registro */
+.controls{
+  width: 100%;
+  background: white;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 32px;
+  border: 2px solid #3e3b32;
+  font-family: 'calibri';
+  font-size: 18px;
+}
+
+
+.text-box{
+  width: 100%;
+  background: white;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 32px;
+  height: 200px;
+  border: 2px solid #3e3b32;
+  font-family: 'calibri';
+  font-size: 18px;
+}
+
+
+
+/* En esta funcion se aplica modificaciones al formato del parrafo */
+.form_register p{
+  height: 50px;
+  text-align: center;
+  font-size: 16px;
+
+
+}
+
+/* En esta funcion se aplica modificaciones al boton de registrar */
+.form-register .buttons{
+  width: 100%;
+  background: #1838a0;
+  border: none;
+  padding: 12px;
+  color: white;
+  margin: 16px 0;
+  font-size: 16px;
+  font-family: 'calibri';
+}
